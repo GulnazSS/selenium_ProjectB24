@@ -101,7 +101,7 @@
       <workItem from="1635459354775" duration="11158000" />
       <workItem from="1635538715512" duration="2000" />
       <workItem from="1635922771293" duration="5152000" />
-      <workItem from="1635999089625" duration="724000" />
+      <workItem from="1635999089625" duration="985000" />
     </task>
     <task id="LOCAL-00001" summary="added">
       <created>1635999112132</created>
@@ -110,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635999112132</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added  all">
+      <created>1636000224287</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636000224287</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +125,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added" />
-    <option name="LAST_COMMIT_MESSAGE" value="added" />
+    <MESSAGE value="added  all" />
+    <option name="LAST_COMMIT_MESSAGE" value="added  all" />
   </component>
 </project>
