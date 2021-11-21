@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9568f38-16a2-49a3-b545-edd378b340f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f9568f38-16a2-49a3-b545-edd378b340f9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="209aeCc61ccu6UvBPPmBvia84f4" />
@@ -142,6 +144,7 @@
       <workItem from="1636609659667" duration="2521000" />
       <workItem from="1636917542505" duration="1306000" />
       <workItem from="1637122196896" duration="5641000" />
+      <workItem from="1637461319983" duration="326000" />
     </task>
     <task id="LOCAL-00001" summary="added">
       <created>1635999112132</created>
@@ -164,16 +167,35 @@
       <option name="project" value="LOCAL" />
       <updated>1636000534175</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added  more files">
+      <created>1637461377070</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1637461377071</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added" />
     <MESSAGE value="added  all" />
     <MESSAGE value="added first" />
-    <option name="LAST_COMMIT_MESSAGE" value="added first" />
+    <MESSAGE value="added  more files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added  more files" />
   </component>
 </project>
